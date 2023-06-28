@@ -1,5 +1,5 @@
 {
-  "name": "@hashicorp/platform-remark-plugins",
+  "name": "@adaptable/platform-remark-plugins",
   "description": "A potpourri of remark plugins used to process .mdx files",
   "version": "0.2.0",
   "author": "Jeff Escalante",
